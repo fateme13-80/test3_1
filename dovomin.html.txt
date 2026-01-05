@@ -1,0 +1,4 @@
+{
+  "name": "Persian Modern Portfolio",
+  "description": "A modern, responsive two-page React application with RTL support, featuring a landing page and a product showcase using Tailwind CSS."
+}
